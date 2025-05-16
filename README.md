@@ -16,36 +16,18 @@ This can be valuable for farmers, agricultural researchers, and anyone intereste
 This model is currently trained to identify and detect diseases in the following seven crops:
 
 * Apple
-* Grape
 * Corn
+* Grape
 * Potato
+* Strawberry
 * Tomato
 * Wheat
-* Strawberry
-
-## Repository Contents
-
-* `Crop_Identification_and_Disease_Detection_Model.ipynb`: This Jupyter Notebook contains the complete Python code for training, evaluating, and potentially using the crop identification and disease detection model. It includes data loading, preprocessing, model architecture, training procedures, and evaluation metrics.
-
-## Getting Started
-
-To get started with this project, you will need to:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/Crop-Identification-and-Disease-Detection-Model.git](https://github.com/YOUR_USERNAME/Crop-Identification-and-Disease-Detection-Model.git)
-    ```
-    (Replace `YOUR_USERNAME` with your actual GitHub username)
-
-2.  **Open the Jupyter Notebook:** Navigate to the cloned repository directory and open the `Crop_Identification_and_Disease_Detection_Model.ipynb` file using Jupyter Notebook or JupyterLab.
-
-3.  **Follow the instructions within the notebook:** The notebook contains detailed explanations of each step, including any necessary data preparation, model training, and usage examples.
 
 ## Prerequisites
 
 Before running the notebook, ensure you have the necessary libraries installed. These typically include:
 
-* Python (version 3.x recommended)
+* Python (version 3.10 recommended)
 * Jupyter Notebook or JupyterLab
 * Deep learning libraries such as TensorFlow or PyTorch
 * Image processing libraries like OpenCV or Pillow
@@ -53,8 +35,3 @@ Before running the notebook, ensure you have the necessary libraries installed. 
 * Libraries for data visualization such as Matplotlib and Seaborn
 
 You can install these libraries using pip:
-
-```bash
-pip install tensorflow numpy pandas matplotlib seaborn scikit-learn opencv-python # Example for TensorFlow
-# or
-pip install torch torchvision torchaudio numpy pandas matplotlib seaborn scikit-learn opencv-python # Example for PyTorch
