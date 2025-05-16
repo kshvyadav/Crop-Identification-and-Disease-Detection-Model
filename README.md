@@ -32,4 +32,3 @@ Before running the notebook, ensure you have the necessary libraries installed. 
 * Data manipulation libraries like NumPy and Pandas
 * Libraries for data visualization such as Matplotlib and Seaborn
 
-You can install these libraries using pip:
