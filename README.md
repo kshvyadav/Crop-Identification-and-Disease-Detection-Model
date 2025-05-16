@@ -15,13 +15,11 @@ This can be valuable for farmers, agricultural researchers, and anyone intereste
 
 This model is currently trained to identify and detect diseases in the following seven crops:
 
-* Apple
+
 * Corn
 * Grape
 * Potato
-* Strawberry
 * Tomato
-* Wheat
 
 ## Prerequisites
 
